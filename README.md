@@ -5,7 +5,7 @@
 In order to verify that the output file creation is working well, please remove the # in the pyt.sh file
 
 Docker Commands :
-docker build -t maze . \n
+docker build -t maze . and
 docker run maze
 
 ## <a name='summary'> Summary</a>
